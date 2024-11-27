@@ -32,3 +32,17 @@ These platforms provide strategies and support in securing businesses and person
 https://www.marksandspencer.com/ 
 
 Delivered the technical framework and initiative for the digital transformation of Marks and Spencer's e-commerce platform from a coupled monolithic to a scalable micro-service omnichannel platform while ensuring the continuation and enhancements of services.
+
+## Repair Smart
+
+Non-Conformance Management Tracking (Repair Smart) software for the Aerospace Industry, Europe - A data harvesting AI engine for Quick Search for solution design templates which are reusable and automatically generated from stored procedures and algorithms. The software is designed to accelerate and automate repairs, reduce search time and improve efficiency.
+
+
+## Obsolescence Enterprise Management System for Defence Industry 
+
+The software offers a comprehensive database containing detailed information on building materials, and electronic components, including specifications, lifecycle status and compliance data.
+
+
+## FIFA World Cup 2022
+
+The platform is a Frontend self-serve AWS SaaS interface providing functionality for customers to send notifications to multiple devices. and work with cloud platform and SDK to deliver our unique service.
