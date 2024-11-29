@@ -45,4 +45,4 @@ The software offers a comprehensive database containing detailed information on 
 
 ## FIFA World Cup 2022
 
-The platform is a Frontend self-serve AWS SaaS interface providing functionality for customers to send notifications to multiple devices. and work with cloud platform and SDK to deliver our unique service.
+The platform is a Frontend self-serve AWS SaaS interface providing functionality for customers to send notifications to multiple devices. and work with AWS cloud platform and SDK to deliver unique user interactive experience and generate revenue.
