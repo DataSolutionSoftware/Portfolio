@@ -42,9 +42,11 @@ Website  - https://collapsesurvivor.com/
 ## .GOV.UK, GCHQ & NCSC platforms:
 
 
-Architecture - Microservices  Data Harvesting  Hub : Microservice Data Harvesting Hub - https://www.figma.com/board/4kkSR0KdbgOCJilUwUAVeI/Architectural-Diagrams?node-id=0-1&node-type=canvas&t=5jKadXmOFNTfSlZo-0 
+Architecture - Microservices  Data Harvesting  Hub : 
 
+https://www.figma.com/board/4kkSR0KdbgOCJilUwUAVeI/Architectural-Diagrams?node-id=0-1&node-type=canvas&t=5jKadXmOFNTfSlZo-0 
 
+Platforms: 
 
 https://www.gchq.gov.uk/ | https://www.ncsc.gov.uk/  | https://www.ncsc.gov.uk/
 
