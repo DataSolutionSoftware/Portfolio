@@ -39,7 +39,7 @@ Key Features of the App:
 
 Website  - https://collapsesurvivor.com/
 
-## .GOV.UK, GCHQ & NCSC platforms:
+## .GOV.UK:
 
 
 Architecture - Microservices  Data Harvesting  Hub : 
