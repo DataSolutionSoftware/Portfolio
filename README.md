@@ -39,7 +39,7 @@ Key Features of the App:
 
 Website  - https://collapsesurvivor.com/
 
-## .GOV.UK:
+## .GOV.UK
 
 
 Architecture - Microservices  Data Harvesting  Hub : 
@@ -53,7 +53,7 @@ https://www.gchq.gov.uk/ | https://www.ncsc.gov.uk/  | https://www.ncsc.gov.uk/
 These platforms provide strategies and support in securing businesses and personal data and provisioning a secure communication network between the government and its citizens, including cyber-security alerts triggered by AI engines.
 
 
-## Marks & Spencer eCommerce platform:
+## Marks & Spencer eCommerce platform
 
 https://www.marksandspencer.com/ 
 
