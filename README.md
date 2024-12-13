@@ -60,7 +60,7 @@ https://www.gchq.gov.uk/ | https://www.ncsc.gov.uk/  | https://www.ncsc.gov.uk/
 
 These platforms provide strategies and support in securing businesses and personal data and provisioning a secure communication network between the government and its citizens, including cyber-security alerts triggered by AI engines.
 
-Repor:
+Report:
 
 https://github.com/kukuu/integration/blob/main/microservice-doc.pdf
 
