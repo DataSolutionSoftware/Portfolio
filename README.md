@@ -10,6 +10,29 @@ A virtual representation of a physical Energy Meter Reader.The software mirrors 
  
 Used in combat systems, digital twins integrates advanced data analytics, real-time simulation, and AI to create a virtual representation of defence assets, systems, and operations, allowing for enhanced decision-making, predictive maintenance, and operational efficiency. By leveraging this technology, it optimises asset management, improve system reliability, and strengthen mission readiness while minimising costs and risks in complex defence environments.
 
+## Kanban Task Management System
+
+Built with React.js and powered by Google Sheets, this software demonstrates how to create a robust task management solution without expensive infrastructure.
+
+🛠️ Key Technical Features:
+• React.js with Ant Design for a sleek UI
+• Google Sheets as a free, reliable database
+• Real-time synchronization
+• Drag & drop task management
+• Smart project & label creation
+• Advanced filtering system
+
+💡 What makes it special:
+- Zero database costs
+- Easy to deploy
+- Familiar Google Workspace integration
+- Highly customizable
+- Perfect for small teams or personal use
+  
+
+https://www.youtube.com/watch?v=4Tinlp2aBmg
+
+
 ## Bulieve
 
 Bulieve is a social platform designed for stock market enthusiasts and investors to share insights, discuss market trends, and stay informed. The platform combines real-time community discussions through "Hot Takes" with curated financial news featuring AI-powered summaries. Users can join or create both public and private communities centered around specific stocks or trading strategies, fostering focused discussions and knowledge sharing.The application provides a seamless experience where users can browse content anonymously, but unlocks full interaction features like posting, commenting, and community participation upon authentication. With an intuitive interface featuring bottom navigation for main sections (Hot Takes, News Arena, Stock Arena, and Communities) and comprehensive search functionality across all content, Bulieve creates an engaging environment for users to connect, share, and learn about stock market investments.
