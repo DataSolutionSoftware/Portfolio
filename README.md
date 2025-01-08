@@ -44,7 +44,9 @@ Whether you're managing budgets, tracking milestones, or coordinating teams, thi
 • Organizations using Google Workspace
 
 
-🔍 Check out the full demo: https://youtu.be/Dry7FBOcAdk
+🔍 Demo: 
+
+https://youtu.be/Dry7FBOcAdk
 
 ## TASK MANAGER (Maximising Productivity)
 
