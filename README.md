@@ -2,14 +2,14 @@
 
 ## DIGITAL TWIN
 
-Find your cheapest  Energy  bill:
-
-https://digital-twin-v2-chi.vercel.app/
-
 A virtual representation of a physical Energy Meter Reader.The software mirrors the real-world physical entity by continuously collecting and emitting data at run-time from sensors, IoT devices, and other sources. It leverages advanced emerging technologies such as artificial intelligence, machine learning, and predictive maintenance and analytics, and simulates various scenarios and predict future outcomes. Digital twins are adaptable for use and can be simulated for use in all aspects of industry. Namely, digital transformation, eCommerce, defence, aerospace, combat systems, manufacturing, electronics, automotives, utilities and many more.
  
 Used in combat systems, digital twins integrates advanced data analytics, real-time simulation, and AI to create a virtual representation of defence assets, systems, and operations, allowing for enhanced decision-making, predictive maintenance, and operational efficiency. By leveraging this technology, it optimises asset management, improve system reliability, and strengthen mission readiness while minimising costs and risks in complex defence environments.
 
+Find your cheapest  Energy  bill:
+
+
+https://digital-twin-v2-chi.vercel.app/ 
 
 ## A Modern Cloud-based Project Management Web Application
 
@@ -50,17 +50,16 @@ https://youtu.be/Dry7FBOcAdk
 
 ## TASK MANAGER (Maximising Productivity)
 
-https://www.youtube.com/watch?v=4OFE2tiXK7g&t=149s
-
 Discover how to maximize your productivity with this Task Manager.The application can transform your workflow, regardless of your industry or field-based service.Keep track of tasks, simplify task management, client relationships, boost productivity from filtering tasks to client communication, invoice creation, and advanced settings.
+
+https://www.youtube.com/watch?v=4OFE2tiXK7g&t=149s
 
 
 ## LOVE JOINT (ECommerce)
 
-https://www.lovejoint.store/
-
 A Nutraceutical for Lifestyle & Healthy Living.
 
+https://www.lovejoint.store/
 
 ## Kanban Task Management System
 
@@ -95,9 +94,6 @@ Site:https://www.bulieve.in/
 
 ## Collapse Survival (Defence)
 
-
-https://apps.apple.com/ca/app/collapse-survivor/id6477384438
-
 A mobile app with threat alerts that can save your life, preparedness news, weekly military-style exercise simulations to improve your survival skills, best preparedness how-to information, and more. 
 
 Key Features of the App:
@@ -107,6 +103,10 @@ Key Features of the App:
 4. Weekly Training Simulations
 5. Media Library
 6. Stock Pile
+
+App: 
+
+https://apps.apple.com/ca/app/collapse-survivor/id6477384438
 
 Website  - https://collapsesurvivor.com/
 
@@ -144,11 +144,11 @@ The platform is a Frontend self-serve AWS SaaS interface providing functionality
 
 
 
-## Marks & Spencer (Ecmmerce)
-
-https://www.marksandspencer.com/ 
+## Marks & Spencer (Ecmmerce) 
 
 Delivered the technical framework and initiative for the digital transformation of Marks and Spencer's e-commerce platform from a coupled monolithic to a scalable micro-service omnichannel platform while ensuring the continuation and enhancements of services.
+
+https://www.marksandspencer.com/
 
 
 ## Microservices (Architecture)
