@@ -10,6 +10,21 @@ A virtual representation of a physical Energy Meter Reader.The software mirrors 
  
 Used in combat systems, digital twins integrates advanced data analytics, real-time simulation, and AI to create a virtual representation of defence assets, systems, and operations, allowing for enhanced decision-making, predictive maintenance, and operational efficiency. By leveraging this technology, it optimises asset management, improve system reliability, and strengthen mission readiness while minimising costs and risks in complex defence environments.
 
+
+## TASK MANAGER
+
+https://www.youtube.com/watch?v=4OFE2tiXK7g&t=149s
+
+Discover how to maximize your productivity with this Task Manager.The application can transform your workflow, regardless of your industry or field-based service.Keep track of tasks, simplify task management, client relationships, boost productivity from filtering tasks to client communication, invoice creation, and advanced settings.
+
+
+## LOVE JOINT
+
+https://www.lovejoint.store/
+
+A Nutraceutical for Lifestyle & Healthy Living.
+
+
 ## Kanban Task Management System
 
 Built with React.js and powered by Google Sheets, this software demonstrates how to create a robust task management solution without expensive infrastructure.
@@ -39,18 +54,6 @@ Bulieve is a social platform designed for stock market enthusiasts and investors
 
 
 Site:https://www.bulieve.in/
-
-## LOVE JOINT
-
-https://www.lovejoint.store/
-
-A Nutraceutical for Lifestyle & Healthy Living.
-
-## TASK MANAGER
-
-https://www.youtube.com/watch?v=4OFE2tiXK7g&t=149s
-
-Discover how to maximize your productivity with this Task Manager.The application can transform your workflow, regardless of your industry or field-based service.Keep track of tasks, simplify task management, client relationships, boost productivity from filtering tasks to client communication, invoice creation, and advanced settings.
 
 
 ## Collapse Survival
