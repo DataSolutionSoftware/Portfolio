@@ -112,7 +112,7 @@ Provided  Technical Authority in the Architecture of the following  UK Governmen
 
 https://www.gchq.gov.uk/ | https://www.ncsc.gov.uk/  | https://www.ncsc.gov.uk/
 
-The above communication  hubs provid strategies and support in securing businesses and personal data and provisioning a secure communication network between the government and its citizens, including cyber-security alerts triggered by AI engines.
+The above communication  hubs provide strategies and support in securing businesses and personal data and provisioning a secure communication network between the government and its citizens, including cyber-security alerts triggered by AI engines.
 
 
 Architecture:: Microservices  Data Harvesting  Hub : 
