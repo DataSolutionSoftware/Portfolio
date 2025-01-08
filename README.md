@@ -56,7 +56,7 @@ Bulieve is a social platform designed for stock market enthusiasts and investors
 Site:https://www.bulieve.in/
 
 
-## Collapse Survival
+## Collapse Survival (Defence)
 
 
 https://apps.apple.com/ca/app/collapse-survivor/id6477384438
@@ -73,7 +73,7 @@ Key Features of the App:
 
 Website  - https://collapsesurvivor.com/
 
-## .GOV.UK
+## .GOV.UK (Government Services)
 
 
 Architecture - Microservices  Data Harvesting  Hub : 
@@ -91,18 +91,12 @@ Report:
 https://github.com/kukuu/integration/blob/main/microservice-doc.pdf
 
 
-## Marks & Spencer eCommerce platform
-
-https://www.marksandspencer.com/ 
-
-Delivered the technical framework and initiative for the digital transformation of Marks and Spencer's e-commerce platform from a coupled monolithic to a scalable micro-service omnichannel platform while ensuring the continuation and enhancements of services.
-
-## Repair Smart
+## Repair Smart (Aerospace)
 
 Non-Conformance Management Tracking (Repair Smart) software for the Aerospace Industry, Europe - A data harvesting AI engine for Quick Search for solution design templates which are reusable and automatically generated from stored procedures and algorithms. The software is designed to accelerate and automate repairs, reduce search time and improve efficiency.
 
 
-## Obsolescence Enterprise Management System for Defence Industry 
+## Obsolescence Enterprise Management System (Aerospace)
 
 The software offers a comprehensive database containing detailed information on building materials, and electronic components, including specifications, lifecycle status and compliance data.
 
@@ -110,6 +104,15 @@ The software offers a comprehensive database containing detailed information on 
 ## FIFA World Cup 2022
 
 The platform is a Frontend self-serve AWS SaaS interface providing functionality for customers to send notifications to multiple devices. and work with AWS cloud platform and SDK to deliver unique user interactive experience and generate revenue.
+
+
+
+## Marks & Spencer eCommerce platform
+
+https://www.marksandspencer.com/ 
+
+Delivered the technical framework and initiative for the digital transformation of Marks and Spencer's e-commerce platform from a coupled monolithic to a scalable micro-service omnichannel platform while ensuring the continuation and enhancements of services.
+
 
 ## Microservices 
 
