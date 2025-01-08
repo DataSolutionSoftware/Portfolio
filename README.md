@@ -11,6 +11,41 @@ A virtual representation of a physical Energy Meter Reader.The software mirrors 
 Used in combat systems, digital twins integrates advanced data analytics, real-time simulation, and AI to create a virtual representation of defence assets, systems, and operations, allowing for enhanced decision-making, predictive maintenance, and operational efficiency. By leveraging this technology, it optimises asset management, improve system reliability, and strengthen mission readiness while minimising costs and risks in complex defence environments.
 
 
+## A Modern Cloud-based Project Management Web Application
+
+This modern project management web application stands out as a competitive and cost-effective alternative to JIRA, offering scalability, simplicity, and ease of use without compromising powerful features. Its seamless integration with Google Sheets eliminates the need for expensive database solutions, making it an ideal choice for startups, SMEs, and teams looking to optimise their workflows while maintaining flexibility. 
+
+Whether you're managing budgets, tracking milestones, or coordinating teams, this tool provides an intuitive and user-friendly interface that streamlines project management tasks - ensuring productivity and growth at a fraction of the cost of traditional enterprise tools like JIRA.
+
+🛠️ Built with React + Google Apps Script, this solution offers enterprise-level project management capabilities while leveraging Google Sheets as a cost-effective database.
+
+✨ Key Features:
+
+• Real-time project tracking with instant search
+
+• Dynamic budget management with planned vs. actual spending
+
+• Interactive milestone timeline with status tracking
+
+• Smart team member management with creatable select dropdowns
+
+• Seamless Google Sheets integration
+
+• Modern UI powered by Ant Design.
+
+🎯 Perfect for:
+
+• Startups and SMEs
+
+• Project managers
+
+• Development teams
+
+• Organizations using Google Workspace
+
+
+🔍 Check out the full demo: https://youtu.be/Dry7FBOcAdk
+
 ## TASK MANAGER (Maximising Productivity)
 
 https://www.youtube.com/watch?v=4OFE2tiXK7g&t=149s
