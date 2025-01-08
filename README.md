@@ -117,3 +117,9 @@ Delivered the technical framework and initiative for the digital transformation 
 ## Microservices (Architecture)
 
 https://www.figma.com/board/4kkSR0KdbgOCJilUwUAVeI/Architectural-Diagrams?node-id=14-150&node-type=frame&t=S3O4VlLohT4vulyt-0
+
+
+## Partners
+
+
+![image](https://github.com/kukuu/integration/blob/main/aawt-logo.png)
