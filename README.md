@@ -58,7 +58,7 @@ A Nutraceutical for Lifestyle & Healthy Living.
 
 https://www.lovejoint.store/
 
-## Kanban Task Management System
+## Kanban Task Management System (Project Management).
 
 Built with React.js and powered by Google Sheets, this software demonstrates how to create a robust task management solution without expensive infrastructure.
 
