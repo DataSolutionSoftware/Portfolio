@@ -155,7 +155,4 @@ https://www.figma.com/board/4kkSR0KdbgOCJilUwUAVeI/Architectural-Diagrams?node-i
 ## Partners
 
 
-![image](https://github.com/kukuu/integration/blob/main/aawt-logo.png)
-
-
-![image](https://github.com/kukuu/integration/blob/main/wercel-logo.jpg)
+![image](https://github.com/kukuu/integration/blob/main/aawt-logo.png) ![image](https://github.com/kukuu/integration/blob/main/wercel-logo.jpg)
