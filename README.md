@@ -9,9 +9,9 @@ Used in combat systems, digital twins integrates advanced data analytics, real-t
 Find your cheapest  Energy  bill:
 
 
-V2 : https://digital-twin-v2-chi.vercel.app/ 
+-  https://digital-twin-v2-chi.vercel.app/ 
 
-V4 : https://github.com/kukuu/digital-twin-PV4-
+- https://github.com/kukuu/digital-twin-PV4-
 
 ## A Modern Cloud-based Project Management Web Application
 
