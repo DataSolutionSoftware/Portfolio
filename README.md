@@ -62,16 +62,15 @@ Discover how to maximize your productivity with this Task Manager.The applicatio
 
 
 
-
-
-
-
 https://www.youtube.com/watch?v=4OFE2tiXK7g&t=149s
 
 
 ## LOVE JOINT (ECommerce)
 
 A Nutraceutical for Lifestyle & Healthy Living.
+
+
+![image](https://github.com/kukuu/integration/blob/main/love-joint.png)
 
 https://www.lovejoint.store/
 
@@ -95,6 +94,8 @@ Built with React.js and powered by Google Sheets, this software demonstrates how
 - Perfect for small teams or personal use
   
 
+![image]( )
+
 https://www.youtube.com/watch?v=4Tinlp2aBmg
 
 
@@ -102,6 +103,8 @@ https://www.youtube.com/watch?v=4Tinlp2aBmg
 
 Bulieve is a social platform designed for stock market enthusiasts and investors to share insights, discuss market trends, and stay informed. The platform combines real-time community discussions through "Hot Takes" with curated financial news featuring AI-powered summaries. Users can join or create both public and private communities centered around specific stocks or trading strategies, fostering focused discussions and knowledge sharing.The application provides a seamless experience where users can browse content anonymously, but unlocks full interaction features like posting, commenting, and community participation upon authentication. With an intuitive interface featuring bottom navigation for main sections (Hot Takes, News Arena, Stock Arena, and Communities) and comprehensive search functionality across all content, Bulieve creates an engaging environment for users to connect, share, and learn about stock market investments.
 
+
+![image]( )
 
 https://www.bulieve.in/
 
@@ -122,12 +125,17 @@ App:
 
 https://apps.apple.com/ca/app/collapse-survivor/id6477384438
 
+![image]( )
+
 Website  - https://collapsesurvivor.com/
 
 ## .GOV.UK (Government Services)
 Technical Authority in the Architecture of the following  UK Government communication hubs to its citizens Home,  and sovereign  states abroad: 
 
 https://www.gchq.gov.uk/ | https://www.ncsc.gov.uk/  | https://www.ncsc.gov.uk/
+
+
+![image]( )
 
 The above communication  hubs provide strategies and support in securing businesses and personal data and provisioning a secure communication network between the government and its citizens, including cyber-security alerts triggered by AI engines.
 
