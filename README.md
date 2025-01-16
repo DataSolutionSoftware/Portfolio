@@ -47,6 +47,10 @@ Whether you're managing budgets, tracking milestones, or coordinating teams, thi
 
 • Organizations using Google Workspace
 
+
+
+![image](https://github.com/kukuu/integration/blob/main/project-management.png)
+
 https://youtu.be/Dry7FBOcAdk
 
 ## TASK MANAGER (Maximising Productivity)
