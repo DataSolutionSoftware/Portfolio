@@ -129,7 +129,7 @@ App:
 
 https://apps.apple.com/ca/app/collapse-survivor/id6477384438
 
-![image]( )
+![image](https://github.com/kukuu/integration/blob/main/collapse-survivor.png)
 
 Website  - https://collapsesurvivor.com/
 
