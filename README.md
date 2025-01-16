@@ -57,6 +57,15 @@ https://youtu.be/Dry7FBOcAdk
 
 Discover how to maximize your productivity with this Task Manager.The application can transform your workflow, regardless of your industry or field-based service.Keep track of tasks, simplify task management, client relationships, boost productivity from filtering tasks to client communication, invoice creation, and advanced settings.
 
+
+![image](https://github.com/kukuu/integration/blob/main/task-manager.png)
+
+
+
+
+
+
+
 https://www.youtube.com/watch?v=4OFE2tiXK7g&t=149s
 
 
