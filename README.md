@@ -94,7 +94,7 @@ Built with React.js and powered by Google Sheets, this software demonstrates how
 - Perfect for small teams or personal use
   
 
-![image]( )
+![image](https://github.com/kukuu/integration/blob/main/kanban-task-board.png)
 
 https://www.youtube.com/watch?v=4Tinlp2aBmg
 
@@ -104,7 +104,7 @@ https://www.youtube.com/watch?v=4Tinlp2aBmg
 Bulieve is a social platform designed for stock market enthusiasts and investors to share insights, discuss market trends, and stay informed. The platform combines real-time community discussions through "Hot Takes" with curated financial news featuring AI-powered summaries. Users can join or create both public and private communities centered around specific stocks or trading strategies, fostering focused discussions and knowledge sharing.The application provides a seamless experience where users can browse content anonymously, but unlocks full interaction features like posting, commenting, and community participation upon authentication. With an intuitive interface featuring bottom navigation for main sections (Hot Takes, News Arena, Stock Arena, and Communities) and comprehensive search functionality across all content, Bulieve creates an engaging environment for users to connect, share, and learn about stock market investments.
 
 
-![image]( )
+![image](https://github.com/kukuu/integration/blob/main/bulieve.png)
 
 https://www.bulieve.in/
 
