@@ -166,10 +166,6 @@ The software offers a comprehensive database containing detailed information on 
 ![image](https://github.com/kukuu/integration/blob/main/scouttm-football-academy.png)
 
 
-
-
-
-
 https://script.google.com/macros/s/AKfycbzxM-BFGCg4AhOtLK4zs2dXEZYrDZFppS1hphm5dvz0nDO--g4mThzrZ87m2jijF_1-/exec
 
 ## FIFA World Cup 2022 (Sports)
@@ -185,7 +181,7 @@ Collaborated and delivered the technical framework and initiative for the digita
 https://www.marksandspencer.com/
 
 
-## Microservices 
+## Architecture 
 
 
 https://www.figma.com/board/4kkSR0KdbgOCJilUwUAVeI/Architectural-Diagrams?node-id=14-150&t=A5JD1wMJwcXaZLP5-0
