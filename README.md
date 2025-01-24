@@ -185,7 +185,17 @@ Collaborated and delivered the technical framework and initiative for the digita
 https://www.marksandspencer.com/
 
 
-## Microservices (Architecture)
+## Microservices 
+
+
+https://www.figma.com/board/4kkSR0KdbgOCJilUwUAVeI/Architectural-Diagrams?node-id=14-150&t=A5JD1wMJwcXaZLP5-0
+
+
+https://www.figma.com/design/otIwQ01tMzOSEbIQ569beM/System-Design?node-id=0-1&p=f&t=FqPK4eErDCmZlEMJ-0
+
+
+https://github.com/kukuu/Migration-of-Monolith-CMS-to-a-Headless-based-approach/blob/main/CMS%20Migration%202.pdf
+
 
 https://www.figma.com/board/4kkSR0KdbgOCJilUwUAVeI/Architectural-Diagrams?node-id=14-150&node-type=frame&t=S3O4VlLohT4vulyt-0
 
