@@ -17,10 +17,6 @@ Find your cheapest  Energy  bill:
 
   ![image](https://github.com/kukuu/integration/blob/main/DTSEM.png) 
 
-- UX : https://github.com/kukuu/integration/blob/main/login-digital-meter-send.png
-
-- https://github.com/kukuu/digital-twin-PV4-
-
 ## A Modern Cloud-based Project Management Web Application
 
 This modern project management web application stands out as a competitive and cost-effective alternative to JIRA, offering scalability, simplicity, and ease of use without compromising powerful features. Its seamless integration with Google Sheets eliminates the need for expensive database solutions, making it an ideal choice for startups, SMEs, and teams looking to optimise their workflows while maintaining flexibility. 
