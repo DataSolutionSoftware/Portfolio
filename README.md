@@ -8,6 +8,8 @@ Digital twins are adaptable for use and can be simulated for use in all aspects 
  
 Used in combat systems, digital twins integrates advanced data analytics, real-time simulation, and AI to create a virtual representation of defence assets, systems, and operations, allowing for enhanced decision-making, predictive maintenance, and operational efficiency. By leveraging this technology, it optimises asset management, improve system reliability, and strengthen mission readiness while minimising costs and risks in complex defence environments.
 
+The use case here  is in the development  and creation of a price comparison Smart Digital Twin Energy Meter (SDTEM).
+
 Find your cheapest  Energy  bill:
 
 
