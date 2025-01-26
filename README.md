@@ -13,7 +13,7 @@ Used in combat systems, digital twins integrates advanced data analytics, real-t
 #### Find Your Cheapest  Energy  Bill:
 
 
-The use case here  is in the development  and creation of a price comparison Smart Digital Twin Energy Meter (SDTEM).
+The use case here  is in the development  of a price comparison Smart Digital Twin Energy Meter (SDTEM).
 
 -  https://digital-twin-v2-chi.vercel.app/
 
