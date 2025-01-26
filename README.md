@@ -17,7 +17,7 @@ The use case here  is in the development  of a price comparison Smart Meter  Dig
 
 -  https://digital-twin-v2-chi.vercel.app/
 
-  ![image](https://github.com/kukuu/integration/blob/main/DTSEM.png) 
+  ![image](https://github.com/kukuu/AGILITY/blob/master/DTSEM.png)
 
 ## A Modern Cloud-based Project Management Web Application
 
@@ -53,7 +53,9 @@ Whether you're managing budgets, tracking milestones, or coordinating teams, thi
 
 
 
-![image](https://github.com/kukuu/integration/blob/main/project-management.png)
+  ![image](https://github.com/kukuu/AGILITY/blob/master/project-management.png)
+
+
 
 https://youtu.be/Dry7FBOcAdk
 
@@ -68,7 +70,8 @@ The application provides a seamless experience where users can browse content an
 Bulieve creates an engaging environment for users to connect, share, and learn about stock market investments.
 
 
-![image](https://github.com/kukuu/integration/blob/main/bulieve.png)
+
+  ![image](https://github.com/kukuu/AGILITY/blob/master/bulieve.png)
 
 https://www.bulieve.in/
 
@@ -78,8 +81,9 @@ https://www.bulieve.in/
 A Nutraceutical for Lifestyle & Healthy Living.
 
 
-![image](https://github.com/kukuu/integration/blob/main/love-joint.png)
 
+  ![image](https://github.com/kukuu/AGILITY/blob/master/love-joint.png)
+  
 https://www.lovejoint.store/
 
 
@@ -90,7 +94,8 @@ https://www.lovejoint.store/
 Discover how to maximize your productivity with this Task Manager.The application can transform your workflow, regardless of your industry or field-based service.Keep track of tasks, simplify task management, client relationships, boost productivity from filtering tasks to client communication, invoice creation, and advanced settings.
 
 
-![image](https://github.com/kukuu/integration/blob/main/task-manager.png)
+
+  ![image](https://github.com/kukuu/AGILITY/blob/master/task-manager.png)
 
 
 
@@ -116,7 +121,8 @@ Built with React.js and powered by Google Sheets, this software demonstrates how
 - Perfect for small teams or personal use
   
 
-![image](https://github.com/kukuu/integration/blob/main/kanban-task-board.png)
+
+  ![image](https://github.com/kukuu/AGILITY/blob/master/kanban-task-board.png) 
 
 https://www.youtube.com/watch?v=4Tinlp2aBmg
 
@@ -137,7 +143,8 @@ App:
 
 https://apps.apple.com/ca/app/collapse-survivor/id6477384438
 
-![image](https://github.com/kukuu/integration/blob/main/collapse-survivor.png)
+
+  ![image](https://github.com/kukuu/AGILITY/blob/master/collapse-survivor.png)
 
 Website  - https://collapsesurvivor.com/
 
@@ -147,7 +154,7 @@ Technical Authority in the Architecture of the following  UK Government communic
 https://www.gchq.gov.uk/ | https://www.gov.uk/
 
 
-![image](https://github.com/kukuu/integration/blob/main/gov-uk.png)
+  ![image](https://github.com/kukuu/AGILITY/blob/master/gov-uk.png) 
 
 The above communication  hubs provide strategies and support in securing businesses and personal data and provisioning a secure communication network between the government and its citizens, including cyber-security alerts triggered by AI engines.
 
@@ -169,7 +176,7 @@ The software offers a comprehensive database containing detailed information on 
 ## ScoutTM Football Academy (Sports)
 
 
-![image](https://github.com/kukuu/integration/blob/main/scouttm-football-academy.png)
+  ![image](https://github.com/kukuu/AGILITY/blob/master/scouttm-football-academy.png)
 
 
 https://script.google.com/macros/s/AKfycbzxM-BFGCg4AhOtLK4zs2dXEZYrDZFppS1hphm5dvz0nDO--g4mThzrZ87m2jijF_1-/exec
@@ -200,5 +207,25 @@ https://github.com/kukuu/Migration-of-Monolith-CMS-to-a-Headless-based-approach/
 
 
 https://www.figma.com/board/4kkSR0KdbgOCJilUwUAVeI/Architectural-Diagrams?node-id=14-150&node-type=frame&t=S3O4VlLohT4vulyt-0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
