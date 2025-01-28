@@ -6,7 +6,9 @@ A virtual representation of a physical Energy Meter Reader.The software mirrors 
 
 Digital twins are adaptable for use and can be simulated for use in all aspects of industry. Namely, digital transformation, eCommerce, defence, aerospace, combat systems, manufacturing, electronics, automotives, utilities and many more.
  
-Used in combat systems, digital twins integrates advanced data analytics, real-time simulation, and AI to create a virtual representation of defence assets, systems, and operations, allowing for enhanced decision-making, predictive maintenance, and operational efficiency. By leveraging this technology, it optimises asset management, improve system reliability, and strengthen mission readiness while minimising costs and risks in complex defence environments.
+Used in the StrikeNet Digital Twin project for the MOD UK,  it serves as the Tecnical Authority for military  and combat operations.
+
+Digital Twins integrates advanced data analytics, real-time simulation, and AI to create a virtual representation of defence assets, systems, and operations, allowing for enhanced decision-making, predictive maintenance, and operational efficiency. By leveraging this technology, it optimises asset management, improve system reliability, and strengthen mission readiness while minimising costs and risks in complex defence environments.
 
 
 
