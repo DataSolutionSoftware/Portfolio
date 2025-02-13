@@ -214,14 +214,23 @@ https://github.com/kukuu/integration/blob/main/system-design-low-level.md
 ## Architecture 
 
 
+
+- Microservice
+
 https://www.figma.com/board/4kkSR0KdbgOCJilUwUAVeI/Architectural-Diagrams?node-id=14-150&t=A5JD1wMJwcXaZLP5-0
 
+
+- End to end Systems Design
 
 https://www.figma.com/design/otIwQ01tMzOSEbIQ569beM/System-Design?node-id=0-1&p=f&t=FqPK4eErDCmZlEMJ-0
 
 
+- Migration monolith CMS to Headess based approach
+
 https://github.com/kukuu/Migration-of-Monolith-CMS-to-a-Headless-based-approach/blob/main/CMS%20Migration%202.pdf
 
+
+- Microservice with IaC pipeline
 
 https://www.figma.com/board/4kkSR0KdbgOCJilUwUAVeI/Architectural-Diagrams?node-id=14-150&node-type=frame&t=S3O4VlLohT4vulyt-0
 
