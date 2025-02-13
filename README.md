@@ -234,7 +234,9 @@ https://github.com/kukuu/digital-twin-PV4-
 
 Developing software for investment and financial institutions requires adherence to strict best practices and governance frameworks to ensure security, compliance, reliability, and scalability. Mentioned here are key considerations and best practices tailored to this highly regulated industry.
 
-By adhering to these best practices and governance frameworks, you can ensure the development of secure, compliant, and scalable software for investment and financial institutions. Leveraging flowcharts, service maps, and architecture diagrams will help align teams, streamline processes, and meet regulatory requirements https://github.com/kukuu/fintech-open-banking-api
+By adhering to these best practices and governance frameworks, you can ensure the development of secure, compliant, and scalable software for investment and financial institutions. Leveraging flowcharts, service maps, and architecture diagrams will help align teams, streamline processes, and meet regulatory requirements.
+
+https://github.com/kukuu/fintech-open-banking-api
 
 
 
