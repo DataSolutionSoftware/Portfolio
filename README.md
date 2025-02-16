@@ -16,7 +16,7 @@ Digital Twins integrates advanced data analytics, real-time simulation, and AI t
 
 
 
-#### Find Your Cheapest  Energy  Bill:
+#### Price Comparison - Find Your Cheapest  Energy  Bill:
 
 
 The use case here  is in the development  of a price comparison Smart Meter  Digital Twin for the Energy and Utility industries.  
@@ -243,7 +243,7 @@ The implementation plan extends Bulieve into a robust AI-driven stock investment
 
 https://github.com/kukuu/AI-in-banking-and-stock-market  
 
-## Digital Twin V4
+## Digital Smart Meter Reader (V4).
 
 This high-volume throughput system exemplifies real-time asynchronous data processing capability ensuring scalability, reliability, flexibility, observability, security and addresses challenges like schema evolution and fault tolerance.
 
