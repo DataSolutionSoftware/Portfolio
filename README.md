@@ -243,7 +243,7 @@ The implementation plan extends Bulieve into a robust AI-driven stock investment
 
 https://github.com/kukuu/AI-in-banking-and-stock-market  
 
-## Digital Smart Meter Reader (V4).
+## Digital Smart Meter Reader (V4)
 
 This high-volume throughput system exemplifies real-time asynchronous data processing capability ensuring scalability, reliability, flexibility, observability, security and addresses challenges like schema evolution and fault tolerance.
 
