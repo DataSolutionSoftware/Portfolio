@@ -213,6 +213,30 @@ https://flixpremiere.com/
 Flix Premiere is a streaming platform specializing in exclusive, curated independent films and award-winning cinema. It offers a unique selection of high-quality movies, often unavailable on other platforms, catering to film enthusiasts. The service provides a premium viewing experience with a focus on storytelling and artistic excellence.
 
 
+
+## AI in Banking and Stock Market 
+This work is a BLUEPRINT and extends the capability of BULIEVE - https://www.bulieve.in/hot-takes to hilight the excellence in using artificial intelligence to harness revenue.
+
+The implementation plan extends Bulieve into a robust AI-driven stock investment platform, adhering to best practices in backend integration, security, governance, and Agile/QA methodologies. 
+
+https://github.com/kukuu/AI-in-banking-and-stock-market  
+
+## Nut Cracker: Digital Smart Meter Reader (V4)
+
+This high-volume throughput system exemplifies real-time asynchronous data processing capability ensuring scalability, reliability, flexibility, observability, security and addresses challenges like schema evolution and fault tolerance.
+
+https://github.com/kukuu/digital-twin-PV4- 
+
+
+## Best Practices and Governance: Software for investment and financial institutions.
+
+Developing software for investment and financial institutions requires adherence to strict best practices and governance frameworks to ensure security, compliance, reliability, and scalability. Mentioned here are key considerations and best practices tailored to this highly regulated industry.
+
+By adhering to these best practices and governance frameworks, you can ensure the development of secure, compliant, and scalable software for investment and financial institutions. Leveraging flowcharts, service maps, and architecture diagrams will help align teams, streamline processes, and meet regulatory requirements.
+
+https://github.com/kukuu/fintech-open-banking-api
+
+
 ## Systems Design
 
 This architecture prioritises scalability, security, and performance to handle millions of search and booking requests.
@@ -226,8 +250,6 @@ https://github.com/kukuu/integration/blob/main/system-design-low-level.md
 
 
 ## Architecture 
-
-
 
 - Microservice
 
@@ -247,30 +269,6 @@ https://github.com/kukuu/Migration-of-Monolith-CMS-to-a-Headless-based-approach/
 - Microservice with IaC pipeline
 
 https://www.figma.com/board/4kkSR0KdbgOCJilUwUAVeI/Architectural-Diagrams?node-id=14-150&node-type=frame&t=S3O4VlLohT4vulyt-0
-
-
-
-## AI in Banking and Stock Market 
-This work is a BLUEPRINT and extends the capability of BULIEVE - https://www.bulieve.in/hot-takes to hilight the excellence in using artificial intelligence to harness revenue.
-
-The implementation plan extends Bulieve into a robust AI-driven stock investment platform, adhering to best practices in backend integration, security, governance, and Agile/QA methodologies. 
-
-https://github.com/kukuu/AI-in-banking-and-stock-market  
-
-## Nut Cracker: Digital Smart Meter Reader (V4)
-
-This high-volume throughput system exemplifies real-time asynchronous data processing capability ensuring scalability, reliability, flexibility, observability, security and addresses challenges like schema evolution and fault tolerance.
-
-https://github.com/kukuu/digital-twin-PV4- 
-
-
-## Best practices and governance for developing software for investment and financial institutions.
-
-Developing software for investment and financial institutions requires adherence to strict best practices and governance frameworks to ensure security, compliance, reliability, and scalability. Mentioned here are key considerations and best practices tailored to this highly regulated industry.
-
-By adhering to these best practices and governance frameworks, you can ensure the development of secure, compliant, and scalable software for investment and financial institutions. Leveraging flowcharts, service maps, and architecture diagrams will help align teams, streamline processes, and meet regulatory requirements.
-
-https://github.com/kukuu/fintech-open-banking-api
 
 
 
