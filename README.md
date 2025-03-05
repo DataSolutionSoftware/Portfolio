@@ -201,6 +201,11 @@ Collaborated and delivered the technical framework and initiative for the digita
 https://www.marksandspencer.com/ 
 
 
+## The ReadApp
+The app offers a reading   Lounge for groups, where each Lounge provides content central to its interests and invites or accepts requests to access and pay for content in its community.  
+
+Members pay to read and can chat and share comments in a discussion thread. The variety of lounges envisaged caters to different interests and provides a space for every reader to find an armchair they feel comfortable in.
+
 ## Flix Premiere:
 
 https://flixpremiere.com/
