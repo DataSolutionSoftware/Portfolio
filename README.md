@@ -203,7 +203,9 @@ https://www.marksandspencer.com/
 
 ## Flix Premerehttps: 
 
-//flixpremiere.com/ : Flix Premiere is a streaming platform specializing in exclusive, curated independent films and award-winning cinema. It offers a unique selection of high-quality movies, often unavailable on other platforms, catering to film enthusiasts. The service provides a premium viewing experience with a focus on storytelling and artistic excellence.
+https://flixpremiere.com/
+
+Flix Premiere is a streaming platform specializing in exclusive, curated independent films and award-winning cinema. It offers a unique selection of high-quality movies, often unavailable on other platforms, catering to film enthusiasts. The service provides a premium viewing experience with a focus on storytelling and artistic excellence.
 
 
 ## Systems Design
