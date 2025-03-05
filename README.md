@@ -1,3 +1,4 @@
+
 # Portfolio  
 
 ## GitHub 
@@ -197,7 +198,13 @@ The platform is a Frontend self-serve AWS SaaS interface providing functionality
 
 Collaborated and delivered the technical framework and initiative for the digital transformation of Marks and Spencer's e-commerce platform from a coupled monolithic to a scalable micro-service omnichannel platform while ensuring the continuation and enhancements of services.
 
-https://www.marksandspencer.com/
+https://www.marksandspencer.com/ 
+
+
+## Flix Premerehttps: 
+
+//flixpremiere.com/ : Flix Premiere is a streaming platform specializing in exclusive, curated independent films and award-winning cinema. It offers a unique selection of high-quality movies, often unavailable on other platforms, catering to film enthusiasts. The service provides a premium viewing experience with a focus on storytelling and artistic excellence.
+
 
 ## Systems Design
 
