@@ -171,7 +171,7 @@ https://apps.apple.com/ca/app/collapse-survivor/id6477384438
 Website  - https://collapsesurvivor.com/
 
 ## .GOV.UK (Government Services)
-Technical Authority in the Architecture of the following  UK Government communication hubs to its citizens Home,  and sovereign  states abroad: 
+Technical Architect on the following  UK Government communication hubs to its citizens Home,  and sovereign  states abroad: 
 
 https://www.gchq.gov.uk/ | https://www.gov.uk/
 
