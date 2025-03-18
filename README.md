@@ -37,7 +37,20 @@ The use case here  is in the development  of a price comparison Smart Meter  Dig
   ![image](https://github.com/kukuu/AGILITY/blob/master/DTSEM.png) 
 
 
+## .GOV.UK (Government Services)
+Technical Architect on the following  UK Government communication hubs to its citizens Home,  and sovereign  states abroad: 
 
+https://www.gchq.gov.uk/ | https://www.gov.uk/
+
+
+  ![image](https://github.com/kukuu/AGILITY/blob/master/gov-uk.png) 
+
+The above communication  hubs provide strategies and support in securing businesses and personal data and provisioning a secure communication network between the government and its citizens, including cyber-security alerts triggered by AI engines.
+
+
+Architecture:: Microservices  Data Harvesting  Hub : 
+
+https://www.figma.com/board/4kkSR0KdbgOCJilUwUAVeI/Architectural-Diagrams?node-id=0-1&node-type=canvas&t=5jKadXmOFNTfSlZo-0
 ## TASK MANAGER (Maximising Productivity)
 
 Discover how to maximize your productivity with this Task Manager.The application can transform your workflow, regardless of your industry or field-based service.Keep track of tasks, simplify task management, client relationships, boost productivity from filtering tasks to client communication, invoice creation, and advanced settings.
@@ -170,20 +183,7 @@ https://apps.apple.com/ca/app/collapse-survivor/id6477384438
 
 Website  - https://collapsesurvivor.com/
 
-## .GOV.UK (Government Services)
-Technical Architect on the following  UK Government communication hubs to its citizens Home,  and sovereign  states abroad: 
-
-https://www.gchq.gov.uk/ | https://www.gov.uk/
-
-
-  ![image](https://github.com/kukuu/AGILITY/blob/master/gov-uk.png) 
-
-The above communication  hubs provide strategies and support in securing businesses and personal data and provisioning a secure communication network between the government and its citizens, including cyber-security alerts triggered by AI engines.
-
-
-Architecture:: Microservices  Data Harvesting  Hub : 
-
-https://www.figma.com/board/4kkSR0KdbgOCJilUwUAVeI/Architectural-Diagrams?node-id=0-1&node-type=canvas&t=5jKadXmOFNTfSlZo-0 
+ 
 
 
 
