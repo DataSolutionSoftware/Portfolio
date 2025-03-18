@@ -5,6 +5,16 @@
 
 https://github.com/kukuu?tab=repositories
 
+## Repair Smart  (Aerospace)
+
+Non-Conformance Management Tracking (Repair Smart) software for the Aerospace Industry, Europe - A data harvesting AI engine for Quick Search for solution design templates which are reusable and automatically generated from stored procedures and algorithms. The software is designed to accelerate and automate repairs, reduce search time and improve efficiency.
+
+
+## Obsolescence Enterprise Management System (Aerospace)
+
+The software offers a comprehensive database containing detailed information on building materials, and electronic components, including specifications, lifecycle status and compliance data.
+
+
 ## DIGITAL TWIN
 
 A virtual representation of a physical Energy Meter Reader.The software mirrors the real-world physical entity by continuously collecting and emitting data at run-time from sensors, IoT devices, and other sources. It leverages advanced emerging technologies such as artificial intelligence, machine learning, and predictive maintenance and analytics, and simulates various scenarios and predict future outcomes.
@@ -176,14 +186,6 @@ Architecture:: Microservices  Data Harvesting  Hub :
 https://www.figma.com/board/4kkSR0KdbgOCJilUwUAVeI/Architectural-Diagrams?node-id=0-1&node-type=canvas&t=5jKadXmOFNTfSlZo-0 
 
 
-## Repair Smart (Aerospace)
-
-Non-Conformance Management Tracking (Repair Smart) software for the Aerospace Industry, Europe - A data harvesting AI engine for Quick Search for solution design templates which are reusable and automatically generated from stored procedures and algorithms. The software is designed to accelerate and automate repairs, reduce search time and improve efficiency.
-
-
-## Obsolescence Enterprise Management System (Aerospace)
-
-The software offers a comprehensive database containing detailed information on building materials, and electronic components, including specifications, lifecycle status and compliance data.
 
 ## ScoutTM Football Academy (Sports)
 
