@@ -15,7 +15,7 @@ Non-Conformance Management Tracking (Repair Smart) software for the Aerospace In
 The software offers a comprehensive database containing detailed information on building materials, and electronic components, including specifications, lifecycle status and compliance data.
 
 
-## DIGITAL TWIN
+## DIGITAL TWIN (Innovation)
 
 A virtual representation of a physical Energy Meter Reader.The software mirrors the real-world physical entity by continuously collecting and emitting data at run-time from sensors, IoT devices, and other sources. It leverages advanced emerging technologies such as artificial intelligence, machine learning, and predictive maintenance and analytics, and simulates various scenarios and predict future outcomes.
 
