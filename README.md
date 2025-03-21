@@ -1,6 +1,7 @@
 
-# Portfolio  
+# Portfolio   
 
+In 2023, I was honoured to be named one of the Top 50 Technologists in the UK. This recognition underscores my contributions to technology and my dedication to fostering innovation, excellence, and best practices, while upholding standards and governance in digital transformation initiatives and achieving impactful results.
 ## GitHub 
 
 https://github.com/kukuu?tab=repositories
