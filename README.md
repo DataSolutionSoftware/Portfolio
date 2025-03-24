@@ -44,6 +44,15 @@ The use case here  is in the development  of a price comparison Smart Meter  Dig
   ![image](https://github.com/kukuu/AGILITY/blob/master/DTSEM.png) 
 
 
+## Marks & Spencer (Ecommerce) 
+
+Working as Technical  Authority for delivery of Marks and Spencer's E-commerce platform as Software Development Manager,  collaborated and delivered the  framework and initiative for the digital transformation of its  online e-commerce platform from a coupled monolithic to a scalable micro-service omnichannel platform while ensuring the continuation and enhancements of services.
+
+https://www.marksandspencer.com/ 
+
+
+
+
 ## .GOV.UK (Government Services)
 Technical Architect on the following  UK Government communication hubs to its citizens Home,  and sovereign  states abroad: 
 
@@ -207,12 +216,6 @@ https://script.google.com/macros/s/AKfycbzxM-BFGCg4AhOtLK4zs2dXEZYrDZFppS1hphm5d
 The platform is a Frontend self-serve AWS SaaS interface providing functionality for customers to send notifications to multiple devices. and work with AWS cloud platform and SDK to deliver unique user interactive experience and generate revenue.
 
 
-
-## Marks & Spencer (Ecommerce) 
-
-Working as Technical  Authority for delivery of Marks and Spencer's E-commerce platform as Software Development Manager,  collaborated and delivered the  framework and initiative for the digital transformation of its  online e-commerce platform from a coupled monolithic to a scalable micro-service omnichannel platform while ensuring the continuation and enhancements of services.
-
-https://www.marksandspencer.com/ 
 
 
 ## The ReadApp
