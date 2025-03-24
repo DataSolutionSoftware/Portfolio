@@ -58,6 +58,7 @@ The above communication  hubs provide strategies and support in securing busines
 Architecture:: Microservices  Data Harvesting  Hub : 
 
 https://www.figma.com/board/4kkSR0KdbgOCJilUwUAVeI/Architectural-Diagrams?node-id=0-1&node-type=canvas&t=5jKadXmOFNTfSlZo-0
+
 ## TASK MANAGER (Maximising Productivity)
 
 Discover how to maximize your productivity with this Task Manager.The application can transform your workflow, regardless of your industry or field-based service.Keep track of tasks, simplify task management, client relationships, boost productivity from filtering tasks to client communication, invoice creation, and advanced settings.
@@ -168,8 +169,7 @@ Built with React.js and powered by Google Sheets, this software demonstrates how
 
 https://www.youtube.com/watch?v=4Tinlp2aBmg
 
-
-## Collapse Survival (Defence)
+<!-- ## Collapse Survival (Defence)
 
 A mobile app with threat alerts that can save your life, preparedness news, weekly military-style exercise simulations to improve your survival skills, best preparedness how-to information, and more. 
 
@@ -188,7 +188,7 @@ https://apps.apple.com/ca/app/collapse-survivor/id6477384438
 
   ![image](https://github.com/kukuu/AGILITY/blob/master/collapse-survivor.png)
 
-Website  - https://collapsesurvivor.com/
+Website  - https://collapsesurvivor.com/ -->
 
  
 
