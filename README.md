@@ -51,6 +51,33 @@ Working as Technical  Authority for delivery of Marks and Spencer's E-commerce p
 https://www.marksandspencer.com/ 
 
 
+## BBC
+
+### RobboWebbie Validation Toolkit
+
+Innovator and Author
+
+Designed and deployed RobboWebbie, an advanced validation toolkit for web document quality assurance at the BBC’s Interactive Factual & Learning (iF&L) and Future Media Technology teams. This tool combined ActiveX controls and data-binding components to automate the filtering and validation of web content against strict editorial and technical benchmarks, ensuring compliance with BBC standards before public delivery.
+
+**Key contributions:**
+
+i. Automated Quality Control: Streamlined detection of inconsistencies in markup, data integrity, and compliance, reducing manual review time.
+
+ii. Cross-Department Adoption: Recognized by BBC technical teams for improving content reliability and scalability during the early 2000s web expansion.
+
+iii. Academic Foundation: Built on research from my MSc thesis on Data Mining and Validation methodologies, bridging theoretical rigor with practical implementation.
+
+Impact: Became a critical tool for the BBC’s Webmaster team, reinforcing the corporation’s reputation for delivering high-quality digital content.
+
+### BBC iPlayer
+
+As a key Developer during the BBC iPlayer’s inaugural launch, I designed and implemented the platform’s first social sharing feature, the **‘Send to a Friend’** module - a pioneering algorithm that enabled users to recommend content via email and nascent social channels. This innovation not only amplified user engagement during iPlayer’s critical early adoption phase but also laid groundwork for viral content dissemination, aligning with the BBC’s public service ethos while addressing scalability challenges unique to digital media sharing in the mid-2000s."
+
+https://www.bbc.co.uk/iplayer
+
+### BBC Mobile Web App
+
+As a core Developer during the BBC Mobile Web App's foundational launch, I architected and implemented reusable widget algorithms - including the flagship **'Top Ten'** and **'Most Read'** modules - that standardized content personalization and dynamic ranking across the platform. These components optimized performance for early mobile web constraints while enabling editorial teams to curate data-driven experiences, establishing key patterns for BBC’s cross-platform content delivery that balanced real-time analytics with lightweight rendering.
 
 
 ## .GOV.UK (Government Services)
