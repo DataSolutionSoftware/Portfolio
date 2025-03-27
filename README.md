@@ -24,7 +24,7 @@ The software offers a comprehensive database containing detailed information on 
 
 ## DIGITAL TWIN (Innovation)
 
-This digital twin solution creates a virtual replica of physical energy meters, using real-time IoT sensor data and AI-driven analytics to simulate scenarios, predict outcomes, and enable predictive maintenance. Adaptable across industries—from utilities and eCommerce to defence and aerospace—it transforms raw data into actionable insights for optimized operations and decision-making.
+This digital twin solution creates a virtual replica of physical energy meters, using real-time IoT sensor data and AI-driven analytics to simulate scenarios, predict outcomes, and enable predictive maintenance. Adaptable across industries — from utilities and eCommerce to defence and aerospace - it transforms raw data into actionable insights for optimized operations and decision-making.
 
 As Technical Authority on the UK MoD’s StrikeNet project, I helped to architect a defence-grade digital twin that virtualized combat systems, integrating real-time analytics and AI to enhance mission readiness. 
 
