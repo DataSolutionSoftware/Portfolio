@@ -203,7 +203,7 @@ Built with React.js and powered by Google Sheets, this software demonstrates how
 
 https://www.youtube.com/watch?v=4Tinlp2aBmg
 
-<!-- ## Collapse Survival (Defence)
+ ## Collapse Survival (Defence)
 
 A mobile app with threat alerts that can save your life, preparedness news, weekly military-style exercise simulations to improve your survival skills, best preparedness how-to information, and more. 
 
@@ -222,7 +222,7 @@ https://apps.apple.com/ca/app/collapse-survivor/id6477384438
 
   ![image](https://github.com/kukuu/AGILITY/blob/master/collapse-survivor.png)
 
-Website  - https://collapsesurvivor.com/ -->
+Website  - https://collapsesurvivor.com/ 
 
  
 
